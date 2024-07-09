@@ -35,6 +35,33 @@ html{
 .sinopse-container {
   padding: 25px 0;
   margin: 25px 0;
-  border-top: 1px dashed #ddd;
-  border-b: 1px dashed #ddd;
+  border-top: 2px solid #ddd;
+}
+
+.quotes-container {
+  background-color: #3e104d;
+  padding: 20px;
+  color: #fff;
+}
+
+.quotes-container blockquote {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: start;
+}
+
+.quotes-container p {
+  font-style: italic;
+}
+
+.curiosities-container {
+  padding: 25px o;
+  margin: 25px 0;
+  border-top: 2px solid #ddd;
+}
+
+.moreinfo-container {
+  padding: 25px o;
+  margin: 25px 0;
+  border-top: 2px solid #ddd;
 }
