@@ -22,7 +22,7 @@ O projeto está estruturado da seguinte forma:
 
 Para visualizar o projeto localmente:
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/Tributo-Resident-Evil-6-Static-Page.git`
+1. Clone este repositório: `git clone https://github.com/AdiulesonArlen/Tributo-Resident-Evil-6-Static-Page.git`
 2. Abra o arquivo `index.html` em um navegador web.
 
 ## Screenshots
